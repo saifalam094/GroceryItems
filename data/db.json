@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": "111111",
+      "checked": false,
+      "item": "chocalte"
+    },
+    {
+      "id": "1111111",
+      "checked": false,
+      "item": "headphones"
+    },
+    {
+      "id": "11111111",
+      "checked": false,
+      "item": "milk"
+    },
+    {
+      "id": "111111111",
+      "checked": false,
+      "item": "pen"
+    },
+    {
+      "id": "1111111111",
+      "checked": false,
+      "item": "pencils"
+    }
+  ]
+}
